@@ -1,0 +1,164 @@
+{
+  "version": 1,
+  "observaciones": [
+    {
+      "fecha_fuente": "2026-07-24",
+      "fecha_primera_descarga_utc": "2026-10-26T13:41:54.946426+00:00",
+      "fuente": "https://www.viviendometro.es/data/viviendometro-ccaa.json",
+      "territorios": [
+        {
+          "id": "AN",
+          "comunidad": "Andalucía",
+          "precio_compra_eur_m2": 2090,
+          "alquiler_eur_m2": 14.5,
+          "precio_compra_var_anual_pct": 12.4,
+          "alquiler_var_interanual_pct": 6.7
+        },
+        {
+          "id": "AR",
+          "comunidad": "Aragón",
+          "precio_compra_eur_m2": 1843,
+          "alquiler_eur_m2": 11.1,
+          "precio_compra_var_anual_pct": 14.4,
+          "alquiler_var_interanual_pct": 10
+        },
+        {
+          "id": "AS",
+          "comunidad": "Asturias",
+          "precio_compra_eur_m2": 1749,
+          "alquiler_eur_m2": 12.26,
+          "precio_compra_var_anual_pct": 13.9,
+          "alquiler_var_interanual_pct": 10.3
+        },
+        {
+          "id": "IB",
+          "comunidad": "Baleares",
+          "precio_compra_eur_m2": 4311,
+          "alquiler_eur_m2": 20.2,
+          "precio_compra_var_anual_pct": 13.4,
+          "alquiler_var_interanual_pct": -0.1
+        },
+        {
+          "id": "CN",
+          "comunidad": "Canarias",
+          "precio_compra_eur_m2": 3052,
+          "alquiler_eur_m2": 15.9,
+          "precio_compra_var_anual_pct": 11,
+          "alquiler_var_interanual_pct": 5.5
+        },
+        {
+          "id": "CB",
+          "comunidad": "Cantabria",
+          "precio_compra_eur_m2": 2307,
+          "alquiler_eur_m2": 13.78,
+          "precio_compra_var_anual_pct": 13.6,
+          "alquiler_var_interanual_pct": -2.6
+        },
+        {
+          "id": "CL",
+          "comunidad": "Castilla y León",
+          "precio_compra_eur_m2": 1421,
+          "alquiler_eur_m2": 10.24,
+          "precio_compra_var_anual_pct": 15.3,
+          "alquiler_var_interanual_pct": 6.8
+        },
+        {
+          "id": "CM",
+          "comunidad": "Castilla-La Mancha",
+          "precio_compra_eur_m2": 1081,
+          "alquiler_eur_m2": 8.7,
+          "precio_compra_var_anual_pct": 12.8,
+          "alquiler_var_interanual_pct": 10.3
+        },
+        {
+          "id": "CT",
+          "comunidad": "Cataluña",
+          "precio_compra_eur_m2": 2995,
+          "alquiler_eur_m2": 17.6,
+          "precio_compra_var_anual_pct": 10.9,
+          "alquiler_var_interanual_pct": -8.2
+        },
+        {
+          "id": "VC",
+          "comunidad": "Comunidad Valenciana",
+          "precio_compra_eur_m2": 2022,
+          "alquiler_eur_m2": 14.79,
+          "precio_compra_var_anual_pct": 13.5,
+          "alquiler_var_interanual_pct": 7.1
+        },
+        {
+          "id": "EX",
+          "comunidad": "Extremadura",
+          "precio_compra_eur_m2": 947,
+          "alquiler_eur_m2": 7.7,
+          "precio_compra_var_anual_pct": 13.5,
+          "alquiler_var_interanual_pct": 7.4
+        },
+        {
+          "id": "GA",
+          "comunidad": "Galicia",
+          "precio_compra_eur_m2": 1747,
+          "alquiler_eur_m2": 10.74,
+          "precio_compra_var_anual_pct": 14.1,
+          "alquiler_var_interanual_pct": 4.4
+        },
+        {
+          "id": "MD",
+          "comunidad": "Comunidad de Madrid",
+          "precio_compra_eur_m2": 4477,
+          "alquiler_eur_m2": 21.7,
+          "precio_compra_var_anual_pct": 14.2,
+          "alquiler_var_interanual_pct": 7.8
+        },
+        {
+          "id": "MC",
+          "comunidad": "Región de Murcia",
+          "precio_compra_eur_m2": 1514,
+          "alquiler_eur_m2": 9.5,
+          "precio_compra_var_anual_pct": 14.4,
+          "alquiler_var_interanual_pct": 5.4
+        },
+        {
+          "id": "NC",
+          "comunidad": "Navarra",
+          "precio_compra_eur_m2": 2240,
+          "alquiler_eur_m2": 12.85,
+          "precio_compra_var_anual_pct": 11.4,
+          "alquiler_var_interanual_pct": 1.4
+        },
+        {
+          "id": "PV",
+          "comunidad": "País Vasco",
+          "precio_compra_eur_m2": 3616,
+          "alquiler_eur_m2": 14.9,
+          "precio_compra_var_anual_pct": 12.3,
+          "alquiler_var_interanual_pct": 1.1
+        },
+        {
+          "id": "RI",
+          "comunidad": "La Rioja",
+          "precio_compra_eur_m2": 1462,
+          "alquiler_eur_m2": 10.27,
+          "precio_compra_var_anual_pct": 14.4,
+          "alquiler_var_interanual_pct": 6.1
+        },
+        {
+          "id": "CE",
+          "comunidad": "Ceuta",
+          "precio_compra_eur_m2": null,
+          "alquiler_eur_m2": null,
+          "precio_compra_var_anual_pct": 13.3,
+          "alquiler_var_interanual_pct": null
+        },
+        {
+          "id": "ML",
+          "comunidad": "Melilla",
+          "precio_compra_eur_m2": null,
+          "alquiler_eur_m2": null,
+          "precio_compra_var_anual_pct": 12.8,
+          "alquiler_var_interanual_pct": null
+        }
+      ]
+    }
+  ]
+}
