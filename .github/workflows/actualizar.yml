@@ -14,6 +14,8 @@ jobs:
         with:
           python-version: '3.12'
       - run: python actualizar.py
+      - name: Inspeccionar esquema oficial MIVAU (diagnóstico, sin modificar datos)
+        run: python inspeccionar_mivau.py
       - name: Guardar datos
         run: |
           git config user.name 'github-actions[bot]'
