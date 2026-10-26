@@ -1,0 +1,25 @@
+{
+  "fuente": "Colegio de Registradores, ERI (T2 2026); precio declarado por m2 de vivienda (columna General)",
+  "periodo": "T2 2026",
+  "unidad": "EUR/m2",
+  "nacional": 2487,
+  "datos": {
+    "AN": 2090,
+    "AR": 1843,
+    "AS": 1749,
+    "IB": 4311,
+    "CN": 3052,
+    "CB": 2307,
+    "CM": 1081,
+    "CL": 1421,
+    "CT": 2995,
+    "VC": 2022,
+    "EX": 947,
+    "GA": 1747,
+    "MD": 4477,
+    "MC": 1514,
+    "NC": 2240,
+    "PV": 3616,
+    "RI": 1462
+  }
+}
